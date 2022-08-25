@@ -1,0 +1,3 @@
+opencv-python
+pandas
+xlrd==1.2.0
