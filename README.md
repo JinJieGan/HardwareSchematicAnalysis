@@ -82,6 +82,5 @@ installation type in config.py):
     <policy domain="coder" rights="read|write" pattern="PDF" />
     ```
 6. Example output
-  ```
+  
   ![image](https://user-images.githubusercontent.com/66105373/188462405-42924872-5eff-49f1-90c5-a7ab3aff510f.png)
-  ```
